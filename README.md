@@ -84,4 +84,16 @@ MAN Pages
 - becoming root temporarily in the terminal
   sudo su  # => enter the user's password 
 
+# Linux Paths 
+**Paths**: 
+- absolute 
+- relative
+
+Any absolute path starts with / 
+- . # => the current working directory 
+- ..  # => the parent directory 
+- ~   # => the user's home directory 
+
+- cd # => changing the current directory to user's home directory 
+
 
