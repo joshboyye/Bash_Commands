@@ -78,4 +78,10 @@ MAN Pages
 **recording the date and time of each command in the history** 
 - ISTTIMEFORMAT="%d/%m/%y %T " # => write it in ~/.bashrc to make it persistent 
 
+# Getting root access (sudo, su)
+- running a command as root 
+- available only to the users that belong to sudo group [Ubuntu] or wheel [CentOS] sudo command
+- becoming root temporarily in the terminal
+  sudo su  # => enter the user's password 
+
 
